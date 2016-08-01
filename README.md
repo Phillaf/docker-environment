@@ -27,3 +27,8 @@ docker-environment make init
 
 You can now access your backend and frontend by visiting the urls
 `http://backend` and `http://frontend`.
+
+## Usage
+
+- `make update` pull all docker images, rebuild them and run update scripts on all repos
+- `make up`, `make down` startup or shutdown all projects at once
