@@ -19,7 +19,7 @@ init: submodules resources update up
 
 submodules:
 	git submodule init
-	git submodule update
+	git submodule update --remote --merge
 
 resources:
 	docker network create $(APP_NAME)
