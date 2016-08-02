@@ -4,3 +4,6 @@
 [submodule "projects/docker-node"]
 	path = projects/docker-node
 	url = https://github.com/phillaf/docker-node.git
+[submodule "projects/docker-mysql"]
+	path = projects/docker-mysql
+	url = https://github.com/phillaf/docker-mysql.git
