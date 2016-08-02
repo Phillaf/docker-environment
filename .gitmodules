@@ -1,6 +1,6 @@
 [submodule "projects/docker-php"]
 	path = projects/docker-php
-	url = https://phillaf@github.com/phillaf/docker-php.git
+	url = https://github.com/phillaf/docker-php.git
 [submodule "projects/docker-node"]
 	path = projects/docker-node
-	url = https://phillaf@github.com/phillaf/docker-php.git
+	url = https://github.com/phillaf/docker-node.git
